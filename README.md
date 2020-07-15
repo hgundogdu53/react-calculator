@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-You can reac out the project using the [LINK](https://react-calculator-three.vercel.app/) 
+## Link for Application
+click this -----> [LINK](https://react-calculator-three.vercel.app/) to run the project.
 In the project directory, you can run:
 
 ### `npm start`
